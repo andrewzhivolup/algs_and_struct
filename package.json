@@ -1,0 +1,11 @@
+{
+  "name": "algs_and_struct",
+  "version": "1.0.0",
+  "description": "Алгоритмы и структуры",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andrewzhivolup",
+  "license": "ISC"
+}
