@@ -4,8 +4,11 @@
   "description": "Алгоритмы и структуры",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "andrewzhivolup",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
 }
